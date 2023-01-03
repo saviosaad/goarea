@@ -1,5 +1,7 @@
 package goarea
 
+import "math"
+
 //Pi é uma proporção numérica definida pela relação entre
 //o perímetro de uma circunferência e o diametro
 const Pi = 3.1416
